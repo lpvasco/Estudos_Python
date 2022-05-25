@@ -1,3 +1,3 @@
 n = str(input('Digite seu nome: ')).split()
 print('O seu primeiro nome é {}'.format(n[0]))
-print('O seu primeiro nome é {}'.format(n[-1]))
+print('O seu último nome é {}'.format(n[-1]))
